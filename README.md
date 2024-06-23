@@ -36,5 +36,6 @@ I am a Web Dev and I am used to working on personal projects.
 <br><br>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sousou15&show_icons=true&locale=en&layout=compact" alt="sous15" /></p>
 
 ![GitHubStats](https://github-readme-stats.vercel.app/api?username=sousou15&show_icons=true)
