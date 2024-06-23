@@ -33,6 +33,8 @@ I am a Web Dev and I am used to working on personal projects.
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
+<br><br>
+
 
 
 ![GitHubStats](https://github-readme-stats.vercel.app/api?username=sousou15&show_icons=true)
