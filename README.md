@@ -4,7 +4,7 @@
 **sousou15/sousou15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div>Welcome to my github page.</div>>
-<div>Web Dev, Python Dev</div>
+<div>Web Dev | Python Dev | Odoo ERP Dev</div>
 
 ## Tools
 
